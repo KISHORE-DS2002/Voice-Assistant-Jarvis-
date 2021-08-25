@@ -10,16 +10,24 @@ To Change Assistant's Name [replace 'idiyameen' from line 23 to line 26]:
                 talk('I am idiyameen')
                 
 Voice Commands:
-> If you instruct "play 'song name'" he plays the song via youtube.
-> If your instruction has the keyword 'date' he would reply his opinion about dating you.
-> If your instruction has the keyword 'time' he would tell the time.
-> If your instruction has the keyword 'who is' he would give a short description about the person you ask about. For example, "who is Dr. A.P.J.Abdul Kalam".
-> If you ask "are u single" he would reply.
-> If your instruction has the keyword 'joke' he would tell you a joke.
-> If your instruction has the keywords 'read' and 'pdf' he would read the pdf u have linked.
+If you instruct "play 'song name'" he plays the song via youtube.
+
+If your instruction has the keyword 'date' he would reply his opinion about dating you.
+
+If your instruction has the keyword 'time' he would tell the time.
+
+If your instruction has the keyword 'who is' he would give a short description about the person you ask about. For example, "who is Dr. A.P.J.Abdul Kalam".
+
+If you ask "are u single" he would reply.
+
+If your instruction has the keyword 'joke' he would tell you a joke.
+
+If your instruction has the keywords 'read' and 'pdf' he would read the pdf u have linked.
      book = open('Tamil.pdf', 'rb') --> Replace 'Tamil.pdf' with the pdf file u want him to read in line 56.
-> If your instruction has the keyword 'WhatsApp' he would help you send a message to any mobile phone number via WhatsApp.
+
+If your instruction has the keyword 'WhatsApp' he would help you send a message to any mobile phone number via WhatsApp.
      phnum = '+91' + comph --> Repalce '+91' with your Country's Dialing Code in line 82.
-> If your instruction has the keyword 'stop' or 'buy' he would stop execution and quit. 
+
+If your instruction has the keyword 'stop' or 'buy' he would stop execution and quit. 
      
 
