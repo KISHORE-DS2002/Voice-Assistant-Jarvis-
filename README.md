@@ -1,5 +1,5 @@
 # Voice-Assistant-Jarvis-
-I present you a basic voice assistant developed using python inspired from Iron Man. I have named mine as "Idiyameen". He is capable of playing a song, send a WhatsApp message, reply to u if u want to have a date, read a file aloud for you, tell you the time, welcome you, tell you a joke, quit when you ask him to stop or say bye, etc.
+I present you a Basic Voice Assistant developed using Python inspired from Iron Man. I have named mine as "Idiyameen". He is capable of playing a song, send a WhatsApp message, reply to u if u want to have a date, read a file aloud for you, tell you the time, welcome you, tell you a joke, quit when you ask him to stop or say bye, etc.
 
 To Change voice to Female go to line 11 of the code and place this --->  engine.setProperty('voice',voices[1].id)
 
