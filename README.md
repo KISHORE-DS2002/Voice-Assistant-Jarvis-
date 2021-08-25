@@ -10,6 +10,7 @@ To Change Assistant's Name [replace 'idiyameen' from line 23 to line 26]:
                 talk('I am idiyameen')
                 
 Voice Commands:
+
 If you instruct "play 'song name'" he plays the song via youtube.
 
 If your instruction has the keyword 'date' he would reply his opinion about dating you.
