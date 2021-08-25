@@ -9,7 +9,7 @@ To Change Assistant's Name [replace 'idiyameen' from line 23 to line 26]:
             elif 'your name' in command:
                 talk('I am idiyameen')
                 
-INSTRUCTIONS:
+Voice Commands:
 > If you instruct "play 'song name'" he plays the song via youtube.
 > If your instruction has the keyword 'date' he would reply his opinion about dating you.
 > If your instruction has the keyword 'time' he would tell the time.
