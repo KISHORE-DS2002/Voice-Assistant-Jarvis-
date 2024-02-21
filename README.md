@@ -29,6 +29,6 @@ If your instruction has the keywords 'read' and 'pdf' he would read the pdf u ha
 If your instruction has the keyword 'WhatsApp' he would help you send a message to any mobile phone number via WhatsApp.
      phnum = '+91' + comph --> Repalce '+91' with your Country's Dialing Code in line 82.
 
-If your instruction has the keyword 'stop' or 'buy' he would stop execution and quit. 
+If your instruction has the keyword 'stop' or 'bye' he would stop execution and quit. 
      
 
